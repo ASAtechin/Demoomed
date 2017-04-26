@@ -1,0 +1,15 @@
+{
+  "name": "demonodeapp",
+  "version": "1.0.0",
+  "description": "This app is to test wether node can handle sdev structre or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "demo_node_sdev"
+  },
+  "author": "ADitya",
+  "license": "ISC"
+}
